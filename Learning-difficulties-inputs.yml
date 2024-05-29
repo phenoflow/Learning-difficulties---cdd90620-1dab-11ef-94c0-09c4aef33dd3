@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/other-learning-difficulties---primary.py
+inputModule3:
+  class: File
+  path: python/learning-difficulties-xspec---primary.py
+inputModule4:
+  class: File
+  path: python/learning-difficulties-develop---primary.py
+inputModule5:
+  class: File
+  path: python/learning-difficulties-dyslexia---primary.py
+inputModule6:
+  class: File
+  path: python/symbolic-learning-difficulties---primary.py
+inputModule7:
+  class: File
+  path: python/mixed-learning-difficulties---primary.py
+inputModule8:
+  class: File
+  path: python/xexpressive-learning-difficulties---primary.py
+inputModule9:
+  class: File
+  path: python/learning-difficulties-function---primary.py
+inputModule10:
+  class: File
+  path: python/arithmetical-learning-difficulties---primary.py
+inputModule11:
+  class: File
+  path: python/learning-difficulties-spelling---primary.py
+inputModule12:
+  class: File
+  path: python/xspecific-learning-difficulties---primary.py
+inputModule13:
+  class: File
+  path: python/learning-difficulties-articulation---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
